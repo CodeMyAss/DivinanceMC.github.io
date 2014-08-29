@@ -1,6 +1,6 @@
 <?php
 //define a maxim size for the uploaded images in Kb
-define ("MAX_SIZE","500"); 
+define ("MAX_SIZE","999"); 
 
 //This function reads the extension of the file. It is used to determine if the file is an image by checking the extension. 
 function getExtension($str) {
